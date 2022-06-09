@@ -1,0 +1,18 @@
+.star {
+  display: inline-block;
+  background: url(./img/star0.png) no-repeat;
+  width: 75px;
+  height: 100px;
+}
+
+.star:hover,
+.star:hover ~ div {
+  background: url(./img/star1.png) no-repeat;
+  width: 75px;
+  height: 100px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  float: left;
+}
