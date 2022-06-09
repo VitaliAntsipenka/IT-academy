@@ -1,0 +1,48 @@
+html,body{
+
+}
+
+.ramka{
+  display: inline-block;
+  background: url(./img/ramka-left.png)repeat-y left ;
+}
+.ramka-1{
+
+
+  background: url(./img/ramka-right.png)repeat-y right ;
+}
+.ramka-2{
+
+
+  background: url(./img/ramka-top.png)repeat-x  top ;
+}
+.ramka-3{
+
+
+  background: url(./img/ramka-bottom.png)repeat-x bottom;
+}
+.ramka-4{
+
+
+  background: url(./img/ramka-top-left.png)no-repeat top left;
+}
+.ramka-5{
+
+
+  background: url(./img/ramka-top-right.png)no-repeat top right;
+}
+.ramka-6{
+
+
+  background: url(./img/ramka-bottom-left.png)no-repeat bottom left;
+
+}
+.ramka-7{
+
+  background: url(./img/ramka-bottom-right.png)no-repeat bottom right;
+}
+.ramka-text{
+  text-align: center;
+  padding: 100px;
+
+}
