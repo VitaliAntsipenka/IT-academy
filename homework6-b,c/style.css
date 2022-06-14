@@ -1,11 +1,13 @@
-.chess {
-}
+.chess {}
+
 .chess tr:nth-child(odd) td:nth-child(even) {
   background: black;
 }
+
 .chess tr:nth-child(even) td:nth-child(odd) {
   background: black;
 }
+
 .chess tr:last-child td:nth-child(even),
 .chess tr:last-child td:nth-child(odd),
 .chess tr:first-child td:nth-child(odd),
@@ -18,6 +20,7 @@
   height: 25px;
   background: rgb(52, 170, 52);
 }
+
 .link::before {
   display: inline-block;
   content: url("./img/extref.png");
