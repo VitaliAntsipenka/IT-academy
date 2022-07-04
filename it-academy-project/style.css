@@ -618,6 +618,16 @@ span {
 }
 
 @media (max-width:648.99px) {
+  .services-provide__icons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .services-provide__icon {
+    width: 100%;
+  }
+
   .services-provide__image-watch img {
     width: 100%;
   }
