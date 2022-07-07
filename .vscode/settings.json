@@ -1,0 +1,22 @@
+{
+   "files.autoSave": "afterDelay",
+   "editor.wordWrap": "on",
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "editor.formatOnPaste": true,
+   "editor.formatOnSave": true,
+   "prettier.printWidth": 120,
+   "prettier.vueIndentScriptAndStyle": true,
+   "prettier.tabWidth": 3,
+   "prettier.proseWrap": "preserve",
+   "php.validate.executablePath": "",
+   "debug.console.wordWrap": true,
+   "html.format.wrapAttributes": "preserve-aligned",
+   "prettier.jsxBracketSameLine": true,
+   "prettier.insertPragma": false,
+   "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   },
+   "[css]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+   }
+}
